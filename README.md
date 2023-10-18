@@ -14,6 +14,7 @@ A virtual ecommerce website using Node js, Express js, and Mongoose.
 * Nodemailer
 * Passport
 * Express Validator
+* Embedded JavaScript templates
 ## Features
 * User
   * Create Account, Login or Logout
